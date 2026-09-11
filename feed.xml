@@ -8,20 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>FeedGenerator</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:32:14 +0000</lastBuildDate>
-    <item>
-      <title>人工知能（AI）関連財の貿易動向 供給網で存在感を高めるASEAN</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260414_sagawa2.pdf</link>
-      <description>タグ: 政治経済, 産業, アジア, 世界
-著者: 佐川　未来
-ファイルサイズ: 2MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260414_sagawa2.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>アジア</category>
-      <category>世界</category>
-      <pubDate>Mon, 13 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 06:41:15 +0000</lastBuildDate>
     <item>
       <title>丸紅ワシントン報告 イラン戦争―綱渡りの停戦 イスラマバード協議以降の交渉力学とエスカレーション・リスク</title>
       <link>https://www.marubeni.com/jp/research/report/data/MWR_2026_11_AfterIslamabadIranUpdate_20260416.pdf</link>
@@ -1264,13 +1251,25 @@
       <title>インクレチン関連薬の産業インパクト 肥満症治療薬市場の急拡大と医薬品市場を超えた社会・経済への広がり</title>
       <link>https://www.marubeni.com/jp/research/report/data/20260910_kaneko_incretin.pdf</link>
       <description>タグ: 政治経済, 産業, 米国, 世界
-著者: 金子　尚志
+著者: 金子　尚志，宮森　映理子
 ファイルサイズ: 1MB</description>
       <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260910_kaneko_incretin.pdf</guid>
       <category>政治経済</category>
       <category>産業</category>
       <category>米国</category>
       <category>世界</category>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Economic Outlook 2026年８月 景気は二極化が進行。党中央が異例の会議開催/対話継続が試される習氏訪米に</title>
+      <link>https://www.marubeni.com/jp/research/report/data/ChinaEconomicOutlook_202608.pdf</link>
+      <description>タグ: 政治経済, 産業, 中国
+著者: 鈴木　貴元
+ファイルサイズ: 2MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/ChinaEconomicOutlook_202608.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>中国</category>
       <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
