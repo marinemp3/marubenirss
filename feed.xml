@@ -8,60 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>FeedGenerator</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:41:15 +0000</lastBuildDate>
-    <item>
-      <title>丸紅ワシントン報告 イラン戦争―綱渡りの停戦 イスラマバード協議以降の交渉力学とエスカレーション・リスク</title>
-      <link>https://www.marubeni.com/jp/research/report/data/MWR_2026_11_AfterIslamabadIranUpdate_20260416.pdf</link>
-      <description>タグ: 政治経済, 米国
-著者: 上原　聡
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/MWR_2026_11_AfterIslamabadIranUpdate_20260416.pdf</guid>
-      <category>政治経済</category>
-      <category>米国</category>
-      <pubDate>Sun, 19 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国際商品市況（3/14～4/17） 原油・銅・鉄鋼原料・穀物 ホルムズ海峡の物流停滞で原油は高値圏</title>
-      <link>https://www.marubeni.com/jp/research/report/data/syouhinshikyo_20260421.pdf</link>
-      <description>タグ: 産業, 米国, 中国, 欧州, 中東, 世界
-著者: 浦野　愛理，桒名　奈美，李　雪連
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/syouhinshikyo_20260421.pdf</guid>
-      <category>産業</category>
-      <category>米国</category>
-      <category>中国</category>
-      <category>欧州</category>
-      <category>中東</category>
-      <category>世界</category>
-      <pubDate>Mon, 20 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界経済概況（日米中欧） 中国：1～3月期GDP、予想を上回るも先行きに懸念</title>
-      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260421.pdf</link>
-      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
-著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260421.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>日本</category>
-      <category>米国</category>
-      <category>中国</category>
-      <category>欧州</category>
-      <pubDate>Mon, 20 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager 人工知能（AI）関連財の貿易動向とASEANの現地生産の展望</title>
-      <link>https://www.marubeni.com/jp/research/report/data/sagawa_20260421.pdf</link>
-      <description>タグ: 政治経済, 産業, アジア
-著者: 佐川　未来
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/sagawa_20260421.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>アジア</category>
-      <pubDate>Mon, 20 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 06:40:59 +0000</lastBuildDate>
     <item>
       <title>One Pager ハンガリー総選挙がもたらした欧州右派ポピュリズムへの示唆</title>
       <link>https://www.marubeni.com/jp/research/report/data/katakawa_20260421.pdf</link>
@@ -1271,6 +1218,55 @@
       <category>産業</category>
       <category>中国</category>
       <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世界経済概況（日米中欧） 中国：投資は記録的な落ち込みに</title>
+      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260915.pdf</link>
+      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
+著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260915.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>日本</category>
+      <category>米国</category>
+      <category>中国</category>
+      <category>欧州</category>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager 日本の実質GNI減少、GDP成長と家計所得の伸びの乖離を示唆</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20260918_matsuo_JapaneseEconomy.pdf</link>
+      <description>タグ: 政治経済, 日本
+著者: 松尾　朋紀
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260918_matsuo_JapaneseEconomy.pdf</guid>
+      <category>政治経済</category>
+      <category>日本</category>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager プロテインクライシスを防ぐタンパク質供給網の再構築</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20260918_kaneko_ProteinCrisis.pdf</link>
+      <description>タグ: 政治経済, 産業, 日本
+著者: 金子　尚志
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260918_kaneko_ProteinCrisis.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>日本</category>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>丸紅ワシントン報告 2026 年米中間選挙（5） 投票日まで49 日：共和党、トランプ大統領を選挙戦の前面に</title>
+      <link>https://www.marubeni.com/jp/research/report/data/MWR_2026_27_MidtermElection_5_20260914.pdf</link>
+      <description>タグ: 政治経済, 米国
+著者: 上原　聡
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/MWR_2026_27_MidtermElection_5_20260914.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
