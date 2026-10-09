@@ -8,61 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>FeedGenerator</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 06:45:12 +0000</lastBuildDate>
-    <item>
-      <title>China Economic Outlook 2026年4月 第1四半期は二極化しつつ再加速/トランプ訪中は不安定の管理へ</title>
-      <link>https://www.marubeni.com/jp/research/report/data/ChinaEconomicOutlook_202604.pdf</link>
-      <description>タグ: 政治経済, 産業, 中国
-著者: 鈴木　貴元
-ファイルサイズ: 3MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/ChinaEconomicOutlook_202604.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>中国</category>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界経済概況（日米中欧） 欧州中央銀行は6月に利上げ実施か</title>
-      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260512.pdf</link>
-      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
-著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260512.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>日本</category>
-      <category>米国</category>
-      <category>中国</category>
-      <category>欧州</category>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager 再構築される米・中東関係</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260512_abe.pdf</link>
-      <description>タグ: 政治経済, 産業, 米国, 中東, 世界
-著者: 阿部　賢介
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260512_abe.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>米国</category>
-      <category>中東</category>
-      <category>世界</category>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager 中東情勢がサプライチェーンに及ぼす影響 概観</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260512_kuwana.pdf</link>
-      <description>タグ: 政治経済, 産業, 中東, 世界
-著者: 桒名　奈美
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260512_kuwana.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>中東</category>
-      <category>世界</category>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 13:33:31 +0000</lastBuildDate>
     <item>
       <title>経済ナショナリズムを読み解くフレームワーク 「競争力」・「強靭性」・「準備」を包含する経済安全保障</title>
       <link>https://www.marubeni.com/jp/research/report/data/20260515_tamaoki.pdf</link>
@@ -1271,6 +1217,55 @@
       <category>日本</category>
       <category>米国</category>
       <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ワシントン動向（2026年10月）</title>
+      <link>https://www.marubeni.com/jp/research/report/data/202610_Monthly_External.pdf</link>
+      <description>タグ: 政治経済, 米国
+著者: 1．中間選挙　2. 内政・議会動向　3．国際情勢　4．経済・産業動向
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/202610_Monthly_External.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <pubDate>Sun, 04 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世界経済概況（日米中欧） 米国：強い経済はインフレ抑制に向けた利上げの支援材料</title>
+      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20261006.pdf</link>
+      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
+著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20261006.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>日本</category>
+      <category>米国</category>
+      <category>中国</category>
+      <category>欧州</category>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager 米国：金利上昇の背景と展望</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261006_sagawa_beikinri.pdf</link>
+      <description>タグ: 政治経済, 米国
+著者: 佐川　未来
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261006_sagawa_beikinri.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager 米中首脳会談：管理された競争関係に向け対話枠組みを模索</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261006_li_US-China.pdf</link>
+      <description>タグ: 政治経済, 米国, 中国
+著者: 李　雪連
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261006_li_US-China.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <category>中国</category>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
