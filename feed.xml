@@ -8,62 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>FeedGenerator</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:33:31 +0000</lastBuildDate>
-    <item>
-      <title>経済ナショナリズムを読み解くフレームワーク 「競争力」・「強靭性」・「準備」を包含する経済安全保障</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260515_tamaoki.pdf</link>
-      <description>タグ: 政治経済, 日本, 世界
-著者: 玉置　浩平
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260515_tamaoki.pdf</guid>
-      <category>政治経済</category>
-      <category>日本</category>
-      <category>世界</category>
-      <pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国際商品市況（4/20～5/15） 原油・銅・鉄鋼原料・穀物 原油：流動的な中東情勢を背景に高値圏で乱高下</title>
-      <link>https://www.marubeni.com/jp/research/report/data/syohinshikyo_20260519.pdf</link>
-      <description>タグ: 政治経済, 産業, 米国, 中国, アジア, 欧州, 中東, 世界
-著者: 伊勢　友理，浦野　愛理，桒名　奈美，李　雪連
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/syohinshikyo_20260519.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>米国</category>
-      <category>中国</category>
-      <category>アジア</category>
-      <category>欧州</category>
-      <category>中東</category>
-      <category>世界</category>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界経済概況（日米中欧） 日本：3月の消費は低調、一部で買いだめの動き</title>
-      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260519.pdf</link>
-      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
-著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260519.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>日本</category>
-      <category>米国</category>
-      <category>中国</category>
-      <category>欧州</category>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager 中東情勢の影響を受けたインドネシア・タイの財政・債務動向</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260519_sagawa.pdf</link>
-      <description>タグ: 政治経済, アジア
-著者: 佐川　未来
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260519_sagawa.pdf</guid>
-      <category>政治経済</category>
-      <category>アジア</category>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 11:42:40 +0000</lastBuildDate>
     <item>
       <title>One Pager サプライチェーン・レジリエンスを誰が支えるのか</title>
       <link>https://www.marubeni.com/jp/research/report/data/20260519_miyamori.pdf</link>
@@ -1266,6 +1211,55 @@
       <category>米国</category>
       <category>中国</category>
       <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世界経済概況（日米中欧） 欧州：フランスの金利急騰の背景</title>
+      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20261014.pdf</link>
+      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
+著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20261014.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>日本</category>
+      <category>米国</category>
+      <category>中国</category>
+      <category>欧州</category>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager ブラジル大統領選挙：第1回投票でフラビオ氏首位、決選投票へ</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261014_urano_Brazil.pdf</link>
+      <description>タグ: 政治経済, 世界
+著者: 浦野　愛理
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261014_urano_Brazil.pdf</guid>
+      <category>政治経済</category>
+      <category>世界</category>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager ディーゼル：原油供給不安と精製能力低下で逼迫</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261014_li_diesel.pdf</link>
+      <description>タグ: 政治経済, 産業, 世界
+著者: 李　雪連
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261014_li_diesel.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>世界</category>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>丸紅ワシントン報告 2026年米中間選挙（6） 投票日まで3週間、守勢に回る共和党</title>
+      <link>https://www.marubeni.com/jp/research/report/data/MWR_2026_29_MidtermElection_6_20261013.pdf</link>
+      <description>タグ: 政治経済, 米国
+著者: 上原　聡
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/MWR_2026_29_MidtermElection_6_20261013.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
