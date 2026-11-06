@@ -8,68 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>FeedGenerator</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:16:04 +0000</lastBuildDate>
-    <item>
-      <title>丸紅ワシントン報告 2026年米中間選挙 トランプ第2期政権の評価と、政権後半の主導権争い</title>
-      <link>https://www.marubeni.com/jp/research/report/data/MWR_2026_14_2026_MidtermsandRedistricting_20260601.pdf</link>
-      <description>タグ: 政治経済, 米国
-著者: 上原　聡
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/MWR_2026_14_2026_MidtermsandRedistricting_20260601.pdf</guid>
-      <category>政治経済</category>
-      <category>米国</category>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界経済概況（日米中欧） 日本：生産動向はハイテク系と石化関連で明暗</title>
-      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260602.pdf</link>
-      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
-著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20260602.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>日本</category>
-      <category>米国</category>
-      <category>中国</category>
-      <category>欧州</category>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager 金融システムの複合的リスク：国債市場における脆弱性</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260602_ise.pdf</link>
-      <description>タグ: 政治経済, 世界
-著者: 伊勢　友理
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260602_ise.pdf</guid>
-      <category>政治経済</category>
-      <category>世界</category>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager AI関連投資の行方：データセンター建設遅延と信用リスク</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260602_sagawa.pdf</link>
-      <description>タグ: 政治経済, 産業, 世界
-著者: 佐川　未来
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260602_sagawa.pdf</guid>
-      <category>政治経済</category>
-      <category>産業</category>
-      <category>世界</category>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Pager 循環経済の地政学―日本の勝ち筋と課題</title>
-      <link>https://www.marubeni.com/jp/research/report/data/20260602_katakawa.pdf</link>
-      <description>タグ: 政治経済, 日本, 欧州
-著者: 堅川　陽平
-ファイルサイズ: 1MB</description>
-      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20260602_katakawa.pdf</guid>
-      <category>政治経済</category>
-      <category>日本</category>
-      <category>欧州</category>
-      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 14:28:26 +0000</lastBuildDate>
     <item>
       <title>ワシントン動向（2026年6月） 1．内政・議会動向　2．国際情勢　3．経済・産業動向　4．AI投資のコスト負担</title>
       <link>https://www.marubeni.com/jp/research/report/data/202606_Monthly_External.pdf</link>
@@ -1268,6 +1207,70 @@
       <category>政治経済</category>
       <category>世界</category>
       <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世界経済概況（日米中欧） フランス財政問題の最大のリスク</title>
+      <link>https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20261102.pdf</link>
+      <description>タグ: 政治経済, 産業, 日本, 米国, 中国, 欧州
+著者: 浦野　愛理，堅川　陽平，松尾　朋紀，李　雪連
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/WeeklyBriefing20261102.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>日本</category>
+      <category>米国</category>
+      <category>中国</category>
+      <category>欧州</category>
+      <pubDate>Sun, 01 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager ペルーカタクチイワシの不漁が示す養殖魚の天然依存</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261102_kanekot_iwashi.pdf</link>
+      <description>タグ: 政治経済, 産業, 世界
+著者: 金子　尚志
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261102_kanekot_iwashi.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>世界</category>
+      <pubDate>Sun, 01 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Pager 米ウ首脳関係悪化を受け、EUは対ロ直接対話に転じられるか</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261102_enomoto_beitaigai.pdf</link>
+      <description>タグ: 政治経済, 米国, 欧州, 世界
+著者: 榎本　裕洋
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261102_enomoto_beitaigai.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <category>欧州</category>
+      <category>世界</category>
+      <pubDate>Sun, 01 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>戦間期の総力戦構想に見る経済と安全保障のジレンマ 旧陸軍「国家総動員に関する意見」を読む</title>
+      <link>https://www.marubeni.com/jp/research/report/data/20261106_tamaoki_anzenhosyo.pdf</link>
+      <description>タグ: 政治経済, 産業, 日本, 世界
+著者: 玉置　浩平
+ファイルサイズ: 1MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/20261106_tamaoki_anzenhosyo.pdf</guid>
+      <category>政治経済</category>
+      <category>産業</category>
+      <category>日本</category>
+      <category>世界</category>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ワシントン動向（2026年11月） １. 内政・外交動向　２．中間選挙　３．2027年の注目点</title>
+      <link>https://www.marubeni.com/jp/research/report/data/202611_Monthly_External.pdf</link>
+      <description>タグ: 政治経済, 米国
+著者: 丸紅米国会社ワシントン事務所
+ファイルサイズ: 2MB</description>
+      <guid isPermaLink="true">https://www.marubeni.com/jp/research/report/data/202611_Monthly_External.pdf</guid>
+      <category>政治経済</category>
+      <category>米国</category>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
